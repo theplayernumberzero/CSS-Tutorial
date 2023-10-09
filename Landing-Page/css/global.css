@@ -1,0 +1,30 @@
+/* Text */
+.text-center{
+    text-align: center;
+}
+
+.heading-small{
+    font-size: 1.25rem;
+}
+.heading-medium{
+    font-size: 1.5rem;
+}
+.heading-big{
+    font-size: 2rem;
+}
+
+/* Colors */
+.bg-dark-blue{
+    background-color: darkblue;
+}
+
+.bg-light-blue{
+    background-color: lightblue;
+}
+
+/* Container */
+.container{
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
